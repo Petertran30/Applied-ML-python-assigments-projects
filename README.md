@@ -1,5 +1,6 @@
-### This resporitory contains all the notebooks of the course Applied Machine Learning with Python.
+# This resporitory contains all the notebooks of the course Applied Machine Learning with Python.
 # Assignment 1: Create a Knn classifier for Breast Cancer dataset from sklearn module.
+
 
 ### Instruction for checking project assignment before submit
 The grader feedback is: Your solution file either prints output to the console (e.g. through the print() function, or it fails to run (e.g. throws an error). You must make sure that the py or ipynb file which you submit does not have errors.
